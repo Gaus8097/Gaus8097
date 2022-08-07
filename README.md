@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Gaus-yellow)](https://stackoverflow.com/users/19629353/gaus)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+going to become Full Stack Deveoloper
+The crossover between design and programming has always been of interest to me, I want to a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
